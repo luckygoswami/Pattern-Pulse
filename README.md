@@ -10,7 +10,7 @@
 
 ## Play the Game
 
-Experience the full gameplay of Pattern Pulse here: [Play Pattern Pulse](https://luckygoswami.github.io/Pattern-Pulse/)
+Experience the full gameplay of Pattern Pulse here: [play Pattern Pulse](https://luckygoswami.github.io/Pattern-Pulse/)
 
 ### How to Play
 
